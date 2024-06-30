@@ -1,25 +1,21 @@
-![Zabbix logo](misc/images/docs/zabbix_logo.svg?raw=true)
-
-An enterprise-class, open-source distributed monitoring solution that’s designed to monitor the performance and availability of network devices, servers, services, and other IT resources.
-Zabbix is a flexible solution that can monitor anything from a simple, standalone application to a large-scale environment, with features including:
-
-- **Resource discovery:** Discover network entities, server resources, and onboard/offboard devices. Use out-of-the-box integrations (templates) to monitor anything form a low-level device to a SAAS service.
-- **Metric acquisition:** Use an agent or agent-less approach for metric acquisition from any source – devices, sensors, operating systems, virtualization platforms, container platforms like Docker, Kubernetes, cloud infrastructures, databases, webpages, Java ecosystems, application servers, API endpoints, business applications, and many more.
-- **Root cause analysis and problem detection:** Count on high-performance, real-time problem detection that correlates both existing and incoming problems and performs root cause analyses.
-- **Incidents, alerts, and notifications:** Receive an alert when an issue is triggered (proactively or post-mortem) in the ecosystem. Use multiple messaging channels (including Slack, JIRA, Microsoft Teams, email or text messages) to get notified about the different types of events occurring in your environment.
-- **“Single pane of glass” overview:** Visualize collected data and monitoring events in graphs, lists, geomaps, and network topology maps.
-- **Multitenancy and distributed monitoring:** Enjoy the convenience of one monitoring solution for multiple data centers, departments, and organizations, and monitor remote locations behind firewalls with remote command execution capability.
-- **Unparalleled flexibility:** Adapt Zabbix to your needs and utilize built-in functionalities, including the ability to stream metrics and events over HTTP, reporting, auditing, security, service SLA calculations, and many more.
-
-## Get started
-
-- [Get Zabbix](https://www.zabbix.com/download)
-- [Installation manual](https://www.zabbix.com/documentation/current/en/manual/installation)
-
-## Documentation
-
-Zabbix documentation is available at [zabbix.com/documentation](https://www.zabbix.com/documentation/current/en/)
-
-## License
-
-Zabbix is distributed under [AGPL-3.0-only](COPYING)
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/zabbix/zabbix/blob/master/misc/images/docs/zabbix_logo.svg?raw=true"><img src="/zabbix/zabbix/raw/master/misc/images/docs/zabbix_logo.svg?raw=true" alt="Zabbix 徽标" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">企业级开源分布式监控解决方案，旨在监控网络设备、服务器、服务和其他 IT 资源的性能和可用性。Zabbix 是一种灵活的解决方案，可以监控从简单的独立应用程序到大型环境的任何内容，其功能包括：</font></font></p>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">资源发现：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发现网络实体、服务器资源和板载/板外设备。使用现成的集成（模板）监控从低级设备到 SAAS 服务的任何内容。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指标采集：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用代理或无代理方法从任何来源获取指标 - 设备、传感器、操作系统、虚拟化平台、容器平台（如 Docker、Kubernetes）、云基础设施、数据库、网页、Java 生态系统、应用程序服务器、API 端点、业务应用程序等等。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根本原因分析和问题检测：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">依靠高性能、实时问题检测，将现有问题和即将出现的问题关联起来，并执行根本原因分析。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">事件、警报和通知：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">当生态系统中触发问题（主动或事后）时接收警报。使用多种消息传递渠道（包括 Slack、JIRA、Microsoft Teams、电子邮件或短信）来获取有关您环境中发生的不同类型的事件的通知。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“单一玻璃”概述：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以图形、列表、地理地图和网络拓扑图的形式可视化收集的数据和监控事件。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多租户和分布式监控：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">享受一个监控解决方案适用于多个数据中心、部门和组织的便利，并具有远程命令执行功能，可监控防火墙后面的远程位置。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无与伦比的灵活性：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根据您的需求调整 Zabbix 并利用内置功能，包括通过 HTTP 传输指标和事件、报告、审计、安全、服务 SLA 计算等功能。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开始使用</font></font></h2><a id="user-content-get-started" class="anchor" aria-label="永久链接：开始吧" href="#get-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://www.zabbix.com/download" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取 Zabbix</font></font></a></li>
+<li><a href="https://www.zabbix.com/documentation/current/en/manual/installation" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装手册</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></h2><a id="user-content-documentation" class="anchor" aria-label="永久链接：文档" href="#documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Zabbix 文档可在</font></font><a href="https://www.zabbix.com/documentation/current/en/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">zabbix.com/documentation上找到</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><a href="/zabbix/zabbix/blob/master/COPYING"><font style="vertical-align: inherit;">Zabbix仅根据 AGPL-3.0</font></a><font style="vertical-align: inherit;">发行</font></font><a href="/zabbix/zabbix/blob/master/COPYING"><font style="vertical-align: inherit;"></font></a></p>
+</article></div>
